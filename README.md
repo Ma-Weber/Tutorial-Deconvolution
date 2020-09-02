@@ -11,4 +11,4 @@ This tutorial uses a set of hydrophone calibration data and hydrophone measureme
 
 ## How to use
 
-You can either run this notebook online with binder (bedge will go here) or download all files and run it with Anaconda 3 and Jupyter Notebook.
+You can either run this notebook online with binder (bedge will go here) or download all files and run it with [Anaconda 3](https://www.anaconda.com/). Just start *Anaconda Navigator* and launch *Jupyter Notebook*. Jupyther Notebook will start in your browser, where you can open the *TutorialV20.ipynb* file. 
