@@ -4,6 +4,7 @@ Tutorial for the deconvolution of hydrophone measurement data
 Author: Martin Weber, Volker Wilkens and Sascha Eichstädt
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ma-Weber/Tutorial-Deconvolution.git/master?filepath=TutorialFinal.ipynb)
+[![DOI](https://zenodo.org/badge/292302077.svg)](https://zenodo.org/badge/latestdoi/292302077)
 
 ## Abstract
 
