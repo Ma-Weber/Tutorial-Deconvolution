@@ -13,4 +13,4 @@ This tutorial uses a set of hydrophone calibration data and hydrophone measureme
 
 ## How to use
 
-You can either run this notebook online with [binder](https://mybinder.org/v2/gh/Ma-Weber/Tutorial-Deconvolution.git/master?filepath=TutorialFinal.ipynb) or download all files and run it on your local computer with [Anaconda 3](https://www.anaconda.com/). Just start *Anaconda Navigator* and launch *Jupyter Notebook*. Jupyther Notebook will start in your browser, where you can open the *TutorialV20.ipynb* file. 
+You can either run this notebook online with [binder](https://mybinder.org/v2/gh/Ma-Weber/Tutorial-Deconvolution.git/master?filepath=TutorialFinal.ipynb) or download all files and run it on your local computer with [Anaconda 3](https://www.anaconda.com/). Just start *Anaconda Navigator* and launch *Jupyter Notebook*. Jupyther Notebook will start in your browser, where you can open the *TutorialFinal.ipynb* file. 
