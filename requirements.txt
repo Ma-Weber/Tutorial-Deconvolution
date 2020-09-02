@@ -1,4 +1,6 @@
 numpy
 scipy
+sympy
 matplotlib
+mpl_toolkits
 PyDynamic
